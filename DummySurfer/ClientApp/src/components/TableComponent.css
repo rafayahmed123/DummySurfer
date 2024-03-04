@@ -1,0 +1,21 @@
+﻿.table-container {
+    height: 300px;
+    overflow: auto;
+    border: 1px solid #dddddd;
+}
+
+.custom-table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+
+}
+.custom-table th, .custom-table td {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: left;
+
+}
+
+.wider-column {
+    width: 200px;
+}
